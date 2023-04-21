@@ -1,0 +1,73 @@
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" />
+
+
+
+
+
+
+<div class="photo-gallery">
+        <div class="row gy-5">
+            <h1 class="text-center">ROOMS</h1>
+            <div class="col-12 col-md-4">
+                <a href="https://placehold.jp/450x350.png" data-lightbox="gallery" data-title=" Room Image 1" download>
+                    <img src="https://placehold.jp/450x350.png" alt="">
+                </a>
+            </div>
+            <div class="col-12 col-md-4">
+                <a href="https://placehold.jp/450x350.png" data-lightbox="gallery" data-title=" Room Image 2" download>
+                    <img src="https://placehold.jp/450x350.png" alt="">
+                </a>
+            </div>
+            <div class="col-12 col-md-4">
+                <a href="https://placehold.jp/450x350.png" data-lightbox="gallery" data-title=" Room Image 3" download>
+                    <img src="https://placehold.jp/450x350.png" alt="">
+                </a>
+            </div>
+        </div>
+        <br>
+        <br>
+        <div class="row gy-5">
+            <h1 class="text-center">STAFF</h1>
+            <div class="col-12 col-md-4">
+                <a href="https://placehold.jp/450x350.png" data-lightbox="gallery" data-title=" Staff Image 1" download>
+                    <img src="https://placehold.jp/450x350.png" alt="">
+                </a>
+            </div>
+            <div class="col-12 col-md-4">
+                <a href="https://placehold.jp/450x350.png" data-lightbox="gallery" data-title=" Staff Image 2" download>
+                    <img src="https://placehold.jp/450x350.png" alt="">
+                </a>
+            </div>
+            <div class="col-12 col-md-4">
+                <a href="https://placehold.jp/450x350.png" data-lightbox="gallery" data-title=" Staff Image 3" download>
+                    <img src="https://placehold.jp/450x350.png" alt="">
+                </a>
+            </div>
+        </div>
+        <br>
+        <br>
+        <div class="row gy-5">
+            <h1 class="text-center">SURROUNDING</h1>
+            <div class="col-12 col-md-4">
+                <a href="https://placehold.jp/450x350.png" data-lightbox="gallery" data-title=" Surrounding Image 1" download>
+                    <img src="https://placehold.jp/450x350.png" alt="">
+                </a>
+            </div>
+            <div class="col-12 col-md-4">
+                <a href="https://placehold.jp/450x350.png" data-lightbox="gallery" data-title=" Surrounding Image 2" download>
+                    <img src="https://placehold.jp/450x350.png" alt="">
+                </a>
+            </div>
+            <div class="col-12 col-md-4">
+                <a href="https://placehold.jp/450x350.png" data-lightbox="gallery" data-title=" Surrounding Image 3" download>
+                    <img src="https://placehold.jp/450x350.png" alt="">
+                </a>
+            </div>
+        </div>
+    </div>
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js"></script>
